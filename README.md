@@ -1,11 +1,9 @@
 # LeivasCad
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Leivas and my nickname is LeivasCad!
 
 - 🔭 Atualmente estou trabalhando Desenho/Desenvolvimento
-- 🌱 Atualmente estou aprendendo me firmar na proogramação
 - 👯 Estou procurando colaborar no que estiver em meu alcance
-- 🤔 Estou procurando ajuda com C# para programação voltada a Autocad
+- 🤔 Procurando ajuda com C# para programação voltada a Autocad
 - 💬 Pergunte-me sobre Dsenho 3D e programação Autolisp
 - 📫 Como entrar em contato comigo: leivasagris@hotmail.com
 - 😄 Pronomes: LeivasCad
