@@ -1,12 +1,12 @@
 # LeivasCad
 ## 👋 Hello! Welcome to my Github profile.
 
-- 🔭 Atualmente estou trabalhando Desenho/Desenvolvimento
-- 👯 Estou procurando colaborar no que estiver em meu alcance
-- 🤔 Procurando ajuda com C# para programação voltada a Autocad
-- 💬 Pergunte-me sobre Dsenho 3D e programação Autolisp
+- 🔭 Atualmente trabalho com Desenho/Desenvolvimento
+- 👯 Procurando colaborar no que estiver em meu alcance
+- 🤔 Procuro ajuda para C# e Python para programação voltada a Autocad
+- 💬 Pergunte-me sobre Desenho 3D e programação Autolisp
 - 📫 Como entrar em contato comigo: leivasagris@hotmail.com
-- 😄 Pronomes: LeivasCad
+- 😄 LeivasCad - Seus projetos em boas telas.
 <br>
 <br>
 <div>
@@ -22,6 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="80" height="80"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg>"
   </div>
           
           
